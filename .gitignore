@@ -1,18 +1,13 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# project
+_site
+.sass-cache
+.vagrant
 
-# Other files and folders
-.settings/
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+Gemfile.lock
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+beautiful-jekyll-theme-*.gem
