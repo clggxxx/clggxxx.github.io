@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "4676488",
+      "name": "虚拟机",
+      "font_class": "xuniji",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "14844163",
+      "name": "wmware",
+      "font_class": "wmware",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "21020101",
+      "name": "dll",
+      "font_class": "bianzu39",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "21507994",
+      "name": "MSDNitellyou",
+      "font_class": "MSDNitellyou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1124995",
+      "name": "e-mial",
+      "font_class": "emial1",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
       "icon_id": "249349",
       "name": "LOCK",
       "font_class": "lock",
@@ -25,13 +60,6 @@
       "font_class": "up",
       "unicode": "e6e0",
       "unicode_decimal": 59104
-    },
-    {
-      "icon_id": "1040171",
-      "name": "emial",
-      "font_class": "emial",
-      "unicode": "e699",
-      "unicode_decimal": 59033
     },
     {
       "icon_id": "1623373",
