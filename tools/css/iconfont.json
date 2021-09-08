@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "249349",
+      "name": "LOCK",
+      "font_class": "lock",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "288555",
+      "name": "defaultsort",
+      "font_class": "defaultsort",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "952354",
+      "name": "up",
+      "font_class": "up",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "1040171",
+      "name": "emial",
+      "font_class": "emial",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
       "icon_id": "1623373",
       "name": "导航",
       "font_class": "daohang",
