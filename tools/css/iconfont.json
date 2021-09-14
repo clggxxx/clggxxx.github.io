@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "10254289",
+      "name": "驱动下载 (1)",
+      "font_class": "qudongxiazai",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
       "icon_id": "13894993",
       "name": "华为开源镜像站",
       "font_class": "huaweikaiyuanjingxiangzhan",
