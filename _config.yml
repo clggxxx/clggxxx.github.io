@@ -20,6 +20,8 @@ navbar-links:
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Tools: "https://www.clggxxx.com/tools/"
     - SerialTool: "https://www.clggxxx.com/serialtool/"
+    - Files: "http://124.239.10.57:19001/"
+    - Upload: "http://124.239.10.57:19000/"
   Author's home: "https://www.clggxxx.com"
 
 # --- Logo --- #
